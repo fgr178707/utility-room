@@ -7,3 +7,5 @@
 [qbittorrent-相关](/qbittorrent-皮肤/README.md)
 
 [Proxifier](/Proxifier/README.md)
+
+[沉浸式翻译](/沉浸式翻译/README.md)
