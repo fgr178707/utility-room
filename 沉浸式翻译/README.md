@@ -7,7 +7,7 @@
 
 [火狐浏览器](/沉浸式翻译/firefox-immersive-translate-0.7.16.zip)
 
-
+[通用配置文件](/沉浸式翻译/immersive-translate-config-2024-6-26_7-43-11.txt)
 
 需要打开沉浸式翻译的开发者设置 > 开启 Beta 测试特性
 
