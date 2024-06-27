@@ -4,9 +4,6 @@
 
     Send, {L down}      ;按下L
     Send, {L up}        ;抬起L
-
-    Send, {R down}      ;按下R
-    Send, {R up}        ;抬起R
     
     Send, {Enter down}  ;按下Enter
     Send, {Enter up}    ;抬起Enter
