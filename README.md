@@ -9,3 +9,5 @@
 [Proxifier](/Proxifier/README.md)
 
 [沉浸式翻译](/沉浸式翻译/README.md)
+
+[AutoHotkey](/AutoHotkey/README.md)
