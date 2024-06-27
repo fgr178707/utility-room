@@ -7,8 +7,8 @@
 return
 
 ClickE:
-    Send, {Space down} ;按下空格
-    Send, {Space up}   ;抬起空格
+    Send, {Space down}  ;按下空格
+    Send, {Space up}    ;抬起空格
 return
 
 F12::ExitApp  ; 按 F12 退出脚本

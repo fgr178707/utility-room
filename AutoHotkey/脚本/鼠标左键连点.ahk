@@ -8,7 +8,7 @@
 return
 
 ClickLoop:
-    Click ; 鼠标左键操作
+    Click   ;鼠标左键操作
 return
 
 F12::ExitApp  ; 按 F12 退出脚本
