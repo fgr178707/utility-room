@@ -1,7 +1,7 @@
 ﻿F::  ; F启动暂停热点
     Toggle := !Toggle
     if (Toggle) {
-        SetTimer, ClickLoop, 1 ;速度 1s=1000ms
+        SetTimer, ClickLoop, 1500 ;速度 1s=1000ms
     } else {
         SetTimer, ClickLoop, Off
     }
