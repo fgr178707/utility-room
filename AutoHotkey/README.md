@@ -14,6 +14,8 @@
 
 [自动输入thisisunsafe](/AutoHotkey/脚本/thisisunsafe.ahk)
 
+[自动输入allow pasting](/AutoHotkey/脚本/allow%20pasting.ahk) **使用时先把控制台改成英文**
+
 ## 如何将点ahk打包成exe
 ![](/AutoHotkey/assets/PixPin_2024-06-27_11-04-32.png)
 

@@ -1,6 +1,4 @@
-﻿F::  ; F启动暂停热点
-    Send, {" down}      
-    Send, {" up}        
+﻿F::  ; F启动暂停热点  
 
     Send, {a down}      
     Send, {a up}        
@@ -41,8 +39,6 @@
     Send, {g down}      
     Send, {g up}        
 
-    Send, {" down}      
-    Send, {" up}        
 
     Send, {Enter down}  
     Send, {Enter up}    
