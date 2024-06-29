@@ -373,4 +373,6 @@ A: Make sure you're copy/pasting the script correctly and that you've have done 
 
 </details>
 
+视频教程:https://www.youtube.com/watch?v=MV33-XB0gss
+
 文章出自于:https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb
