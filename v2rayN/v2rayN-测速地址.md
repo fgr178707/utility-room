@@ -9,7 +9,7 @@
 和彩云| https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png
 联通电视| NetworkPanelApi://listen.10155.com
 
-# 全球[Global]
+# 全球
 | 简称 | 链接  | 
 | :-|:-
 Cachefly| https://web1.cachefly.net/speedtest/downloading
@@ -19,3 +19,9 @@ Cloudfl areWorkers| https://gh.con.sh/https://github.com/AaronFeng753/Waifu2x-Ex
 Steam Akamai| https://cdn.akamai.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif
 Steam loudflare| https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif
 MicrosoftAkamai| https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm
+
+# 网页在线测速
+| 简称 | 链接  | 
+| :-|:-
+|Google Fiber| https://fiber.google.com/speedtest/
+| Speedtest| https://www.speedtest.net/zh-Hans
