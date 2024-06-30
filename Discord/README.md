@@ -43,10 +43,8 @@
 
 
 ## 完成最近的 Discord 任务
-
 <details>
-	<summary>点击展开(翻译)</summary>
-    
+<summary><code><strong>点击展开(翻译)</strong></code></summary>
 NOTE
 
     这在浏览器中不再有效！
@@ -62,9 +60,13 @@ WARNING
 2. 按 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> 打开 DevTools
 3. 转到 "控制台 "选项卡
 4. 粘贴以下代码并点击回车：
+
+
+
+
 <details>
-	<summary>点击展开</summary>
-	
+<summary><code><strong>点击展开</strong></code></summary>
+
 ```js
 let wpRequire;
 window.webpackChunkdiscord_app.push([[ Math.random() ], {}, (req) => { wpRequire = req; }]);
@@ -209,9 +211,9 @@ if(!isApp) {
 
 </details>
 
-
 <details>
-	<summary>点击展开(原文)</summary>
+<summary><code><strong>点击展开(原文)</strong></code></summary>
+
 NOTE
 
     This no longer works in browser!
@@ -227,8 +229,9 @@ How to use this script:
 2. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> to open DevTools
 3. Go to the `Console` tab
 4. Paste the following code and hit enter:
+
 <details>
-	<summary>Click to expand</summary>
+<summary><code><strong>Click to expand</strong></code></summary>
 	
 ```js
 let wpRequire;
