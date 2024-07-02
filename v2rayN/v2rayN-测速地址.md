@@ -25,3 +25,4 @@ MicrosoftAkamai| https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/
 | :-|:-
 |Google Fiber| https://fiber.google.com/speedtest/
 | Speedtest| https://www.speedtest.net/zh-Hans
+|网络面板|https://net.ljxnet.cn/
