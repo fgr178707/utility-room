@@ -5,41 +5,48 @@
 
 [VencordInstaller官网](https://vencord.dev/) **认准当前网站**
 
-### [插件列表][1]
-[1]:https://vencord.dev/plugins
+### [插件列表][插件列表]
+[插件列表]:https://vencord.dev/plugins
 ### 推荐插件
 
 
 |名称|简称| 本人已安装
 | :-|:-|:-
-|[CustomRPC][1]|必安装|✅
-|[fakeNitro][2] |不用购买Nitro! 也能获得Nitro!一样的功能|✅
-|[NSFWGateBypass][3]|允许您在不设置/验证您的年龄的情况下访问 18+ 频道|✅
-|[ReadAllNotificationsButton][4]|只需单击一个按钮，即可读取所有服务器通知！|✅
-|[EmoteCloner][5]|允许您将表情和贴纸克隆到您自己的服务器（右键单击它们）|❌
-|[BetterFolders][6]|在侧边栏显示服务器文件夹，并添加与文件夹相关的改进功能|❌
-|[SilentTyping][7]|隐藏您正在输入的内容|✅
-|[NoReplyMention][8]|默认情况下禁用回复 @|❌
-|[ImageZoom][9]|让你放大图片和 gif。使用滚轮放大，使用 shift + 滚轮增大镜头半径/尺寸|✅
-|[Translate][10]|使用 Google 翻译翻译信息|❌ 
-|[FixYoutubeEmbeds][11]|绕过 Youtube 视频在 Discord 上被阻止显示的情况（例如被 UMG 阻止）|❌
-|[MaskedLinkPaste][12]|在选中文本时粘贴链接，类似Markdown文字链接|❌
-|[NoOnboardingDelay][13]|跳过缓慢而烦人的入职延迟|❌
-|[ReplaceGoogleSearch][13]|用不同的引擎搜索|❌
+[CustomRPC][CustomRPC]|必安装|✅
+[fakeNitro][fakeNitro] |不用购买Nitro! 也能获得Nitro!一样的功能|✅
+[NSFWGateBypass][NSFWGateBypass]|允许您在不设置/验证您的年龄的情况下访问 18+ 频道|✅
+[ReadAllNotificationsButton][ReadAllNotificationsButton]|只需单击一个按钮，即可读取所有服务器通知！|✅
+[EmoteCloner][EmoteCloner]|允许您将表情和贴纸克隆到您自己的服务器（右键单击它们）|✅
+[SilentTyping][SilentTyping]|隐藏您正在输入的内容|✅
+[ImageZoom][ImageZoom]|让你放大图片和 gif。使用滚轮放大，使用 shift + 滚轮增大镜头半径/尺寸|✅
+[AlwaysTrust][AlwaysTrust]|删除烦人的不受信任的域和可疑文件弹出窗口安装|✅
+[ShowAllMessageButtons][ShowAllMessageButtons]|无论您是否按住 shift 键，始终显示所有消息按钮。|✅
+[PlainFolderIcon][PlainFolderIcon]|不显示文件夹中的图标|✅
+[BetterFolders][BetterFolders]|在侧边栏显示服务器文件夹，并添加与文件夹相关的改进功能|❌
+[NoReplyMention][NoReplyMention]|默认情况下禁用回复 @|❌
+[Translate][Translate]|使用 Google 翻译翻译信息|❌ 
+[FixYoutubeEmbeds][FixYoutubeEmbeds]|绕过 Youtube 视频在 Discord 上被阻止显示的情况（例如被 UMG 阻止）|❌
+[MaskedLinkPaste][MaskedLinkPaste]|在选中文本时粘贴链接，类似Markdown文字链接|❌
+[ReplaceGoogleSearch][ReplaceGoogleSearch]|用不同的引擎搜索|❌
+[NoOnboardingDelay][NoOnboardingDelay]|跳过缓慢而烦人的入职延迟|❌
 
-[1]:https://vencord.dev/plugins/CustomRPC
-[2]:https://vencord.dev/plugins/FakeNitro
-[3]:https://vencord.dev/plugins/NSFWGateBypass
-[4]:https://vencord.dev/plugins/ReadAllNotificationsButton
-[5]:https://vencord.dev/plugins/EmoteCloner
-[6]:https://vencord.dev/plugins/BetterFolders
-[7]:https://vencord.dev/plugins/SilentTyping
-[8]:https://vencord.dev/plugins/NoReplyMention
-[9]:https://vencord.dev/plugins/ImageZoom
-[10]:https://vencord.dev/plugins/Translate
-[11]:https://vencord.dev/plugins/FixYoutubeEmbeds
-[12]:https://vencord.dev/plugins/MaskedLinkPaste]
-[13]:https://vencord.dev/plugins/ReplaceGoogleSearch
+[CustomRPC]:https://vencord.dev/plugins/CustomRPC
+[fakeNitro]:https://vencord.dev/plugins/FakeNitro
+[NSFWGateBypass]:https://vencord.dev/plugins/NSFWGateBypass
+[ReadAllNotificationsButton]:https://vencord.dev/plugins/ReadAllNotificationsButton
+[EmoteCloner]:https://vencord.dev/plugins/EmoteCloner
+[SilentTyping]:https://vencord.dev/plugins/SilentTyping
+[AlwaysTrust]:https://vencord.dev/plugins/AlwaysTrust
+[ImageZoom]:https://vencord.dev/plugins/ImageZoom
+[BetterFolders]:https://vencord.dev/plugins/BetterFolders
+[NoReplyMention]:https://vencord.dev/plugins/NoReplyMention
+[Translate]:https://vencord.dev/plugins/Translate
+[FixYoutubeEmbeds]:https://vencord.dev/plugins/FixYoutubeEmbeds
+[MaskedLinkPaste]:https://vencord.dev/plugins/MaskedLinkPaste]
+[ReplaceGoogleSearch]:https://vencord.dev/plugins/ReplaceGoogleSearch
+[NoOnboardingDelay]:https://vencord.dev/plugins/NoOnboardingDelay
+[ShowAllMessageButtons]:https://vencord.dev/plugins/ShowAllMessageButtons
+[PlainFolderIcon]:https://vencord.dev/plugins/PlainFolderIcon
 
 
 ## 完成最近的 Discord 任务
