@@ -1,9 +1,68 @@
 #### 放点杂物看看就好啦🤣🤣🤣
 ----------
-[老版本备份](/v2rayN/老版本/README.md)
-
-[测速地址](/v2rayN/v2rayN-测速地址.md)
+[老版本备份](/v2rayN/老版本/README.md) 
 
 [节点称对应国家](/v2rayN/v2rayN-节点称对应国家.md)
 
-**Xray替换路径软件同级目录下 \bin\Xray**
+### [测速地址](#测速地址-1)
+* [国内](#国内运营商) 
+* [全球](#全球)
+* [网页在线测速](#网页在线测速)
+
+### [节点称对应国家](节点称对应国家)
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+# 测速地址
+#### 国内运营商
+| 简称 | 链接  | 
+| :-|:-
+咪咕快游[高速]| https://freeserver.migufun.com/resource/beta/apk/20240412135425/MiguPlay-V3.79.1.1_miguzsj.apk
+咪咕音乐| https://wsdkdl.migu.cn:8443/b486900f41fc411187240dcb45fdbc8d/1716482115184/netsdk_b.js
+咪咕视频| https://img.cmvideo.cn/publish/noms/2023/12/06/1O4SHFIFR36BD.gif
+咪咕快游2| https://h5cdn.migufun.com/middleh5/_nuxt/643447d.js
+和彩云| https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png
+联通电视| NetworkPanelApi://listen.10155.com
+#### 全球
+| 简称 | 链接  | 
+| :-|:-
+Cachefly| https://web1.cachefly.net/speedtest/downloading
+Cloudflare| https://speed.cloudflare.com/__down?bytes=104857600
+jsDelivr| https://cdn.jsdelivr.net/gh/ljxi/CDN-IP-test@main/dump
+Cloudfl areWorkers| https://gh.con.sh/https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v2.21.12/Waifu2x-Extension-GUI-v2.21.12-Portable.7z
+Steam Akamai| https://cdn.akamai.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif
+Steam loudflare| https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif
+MicrosoftAkamai| https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm
+
+#### 网页在线测速
+| 简称 | 链接  | 
+| :-|:-
+|Google Fiber| https://fiber.google.com/speedtest/
+| Speedtest| https://www.speedtest.net/zh-Hans
+|网络面板|https://net.ljxnet.cn/
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+| 简称 | 名称  | 
+| :-|:-
+AT|奥地利
+BE|比利时
+CA|加拿大
+CH|瑞士
+CT|中国台湾
+DE|德国
+ED|埃及
+GB|英国
+HK|中国香港
+ID|印度尼西亚
+IT|意大利
+JP|日本
+KG|吉尔吉斯斯坦
+KR|韩国
+NL|荷兰
+PL|波兰
+RU|俄罗斯
+SC|塞舌尔
+SG|新加坡
+TW|中国台湾
+US|美国
