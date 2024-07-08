@@ -8,7 +8,6 @@
 * [国内](#国内运营商) 
 * [全球](#全球)
 * [网页在线测速](#网页在线测速)
-
 ### [节点称对应国家](节点称对应国家)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -40,13 +39,17 @@ MicrosoftAkamai| https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/
 |Google Fiber| https://fiber.google.com/speedtest/
 | Speedtest| https://www.speedtest.net/zh-Hans
 |网络面板|https://net.ljxnet.cn/
-
+|互联网速度测试|https://fast.com/zh/cn
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+### 节点称对应国家
 
 | 简称 | 名称  | 
 | :-|:-
 AT|奥地利
 BE|比利时
+CMCC|中国移动
+CMCC-IPV6|中国移动-IPV6
 CA|加拿大
 CH|瑞士
 CT|中国台湾
