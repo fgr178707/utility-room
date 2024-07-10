@@ -6,7 +6,8 @@
 * [国内](#国内运营商) 
 * [全球](#全球)
 * [网页在线测速](#网页在线测速)
-### [节点称对应国家](节点称对应国家)
+### [节点称对应国家](#节点称对应国家-1)
+### [多功能测试](#多功能测试)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -68,3 +69,14 @@ SC|塞舌尔
 SG|新加坡
 TW|中国台湾
 US|美国
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+### 多功能测试
+| 简称 | 链接  | 功能 |
+| :-|:-|:-
+|Check your IP address|https://www.myip.com/|检查您的 IP 地址
+|Scamalytics|https://scamalytics.com/|节点纯净
+|全球各国IP地址段国家/地区列表-IP地址（简体中)|https://zh-hans.ipshu.com/country-list|IP国家
+|ip125.com|https://ip125.com/|运营商-IP查询
+|bestyvps|https://www.bestyvps.com/|可用性测试
