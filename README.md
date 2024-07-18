@@ -13,3 +13,5 @@
 [AutoHotkey](/AutoHotkey/README.md)
 
 [Discord](/Discord/README.md)
+
+[浏览器插件](/浏览器插件)
