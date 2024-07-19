@@ -34,7 +34,7 @@
 ----------
 ### 沉浸式翻译
 >沉浸式网页双语翻译扩展，免费使用，支持 Deepl/Google/有道/腾讯翻译等多个翻译服务，支持 Firefox/Chrome/油猴脚本，亦可在 iOS Safari 上使用。
-* [离线下载](/沉浸式翻译/chrome-immersive-translate-0.7.16.zip)
+* [离线下载](/沉浸式翻译/README.md)
 ----------
 ### BewlyBewly
 >只需对您的 Bilibili 主页进行一些小更改即可。
