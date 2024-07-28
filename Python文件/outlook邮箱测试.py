@@ -1,5 +1,11 @@
 import poplib
 import concurrent.futures
+# import socks
+# import socket
+
+# 设置Socks5代理
+# socks.set_default_proxy(socks.SOCKS5, "localhost", 10808)
+# socket.socket = socks.socksocket
 
 def check_outlook_login(email, password):
     try:
