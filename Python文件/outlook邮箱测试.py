@@ -7,9 +7,9 @@ import concurrent.futures
 # socks.set_default_proxy(socks.SOCKS5, "localhost", 10808)
 # socket.socket = socks.socksocket
 
-def check_outlook_login(email, password):
+def check_outlook_login(email, password, timeout=60):
     try:
-        mail = poplib.POP3_SSL('pop-mail.outlook.com', 995)
+        mail = poplib.POP3_SSL('pop-mail.outlook.com', 995, timeout=timeout)
         mail.user(email)
         mail.pass_(password)
         mail.quit()
