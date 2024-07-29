@@ -15,7 +15,7 @@ def check_outlook_login(email, password, timeout=60):
         mail.quit()
         return True
     except poplib.error_proto as e:
-        print(f'Error for {email}: {e}')
+        print(f'错误原因 {email}: {e}')
         return False
 
 # 从文件读取用户名和密码
