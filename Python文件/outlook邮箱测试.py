@@ -30,7 +30,7 @@ input_data = list(zip(emails, passwords))
 results = {}
 
 def test_account(email, password):
-    print(f'Testing {email}...')  # 输出正在测试的邮箱
+    print(f'正在测试的邮箱: {email}...')  # 输出正在测试的邮箱
     result = check_outlook_login(email, password)
     print(f'{email}: {"成功" if result else "失败"}')  # 输出测试结果
     return email, password, result
@@ -54,6 +54,6 @@ os.makedirs('结果', exist_ok=True)
 with open(os.path.join('结果', '成功账号.txt'), 'w', encoding='utf-8') as success_file, open(os.path.join('结果', '失败账号.txt'), 'w', encoding='utf-8') as failure_file:
     for email, (password, status) in results.items():
         if status:
-            success_file.write(f'账号: {email} ----- 密码: {password}: 成功\n')
+            success_file.write(f'账号: {email} \n密码: {password}\n成功\n\n')
         else:
-            failure_file.write(f'账号: {email} ----- 密码: {password}: 失败\n')
+            failure_file.write(f'账号: {email} \n密码: {password}\n失败\n\n')
