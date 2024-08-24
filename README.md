@@ -16,4 +16,6 @@
 
 [浏览器插件](/浏览器插件)
 
-[广告屏蔽](/uBlock-Origin/README.md)
+[广告屏蔽](/广告拦截/README.md)
+
+[临时邮箱](/临时邮箱/README.md)
