@@ -1,22 +1,24 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=yes;">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
     <title>软件库</title>
-    <link rel="stylesheet" href="styles.css" type="text/css" />
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <script type="text/javascript" src="jquery.min.js"></script>
 </head>
 <body>
 <a name="top"></a>
 <div class="container_24">
     <div class="filter">
-        <input id="filter" placeholder="输入关键字筛选"/>
-        <input type="button" id="do-search" value="搜索"/>
+        <input id="filter" placeholder="输入关键字筛选">
+        <input type="button" id="do-search" value="搜索">
     </div>
 
     <table class="table" style="font-size: 10pt">
         <tbody>
+        <tr onclick="window.open('跳转链接')" class='dl-link'><td class="model"><a onclick="goto_cat_link(event)" class="cat_link"> [分类]</a>名称</td></tr>
+        <tr onclick="window.open('跳转链接')" class='dl-link'><td class="model"><a onclick="goto_cat_link(event)" class="cat_link"> [分类]</a>名称</td></tr>
         <tr onclick="window.open('跳转链接')" class='dl-link'><td class="model"><a onclick="goto_cat_link(event)" class="cat_link"> [分类]</a>名称</td></tr>
         <script>
             $(document).ready(function () {
