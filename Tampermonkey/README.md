@@ -9,4 +9,4 @@
 
 |  | 脚本名称 | 脚本功能 | 安装 \| 备用 |
 | :----: | :---- | :---- | :----: |
-| <img src="http://static.hdslb.com/images/favicon.ico" height="16px" /> | **脚本名称** | 脚本功能 | **[安装]()** \| **[备用]()** |
+| <img src="http://www.115.com/favicon.ico" height="16px" /> | **115 Cookie登录** | Cookie登录 | **[安装](https://update.greasyfork.org/scripts/474459/115Cookie登录.user.js)** \| **[备用](./Backup/115%20Cookie登录.user.js)** |
