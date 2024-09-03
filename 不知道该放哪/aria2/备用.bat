@@ -1,0 +1,1 @@
+aria2c --enable-rpc --rpc-listen-port=6801 --header="Referer":"https://www.bilibili.com" -j 1 -s 16 --dir=F:\aria2c --split=8
