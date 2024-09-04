@@ -10,9 +10,12 @@
 ```markdown
 文件位置
 📁 文件夹
-├── 📄 MyConfigFile.wsb
+├──   MyConfigFile.wsb
 └── 📁 互传文件夹
-        └── 📁 自动安装软件
+        ├── XXXX.exe
+        └──  📁 自动安装软件
+                ├── XXXX.exe
+                └── a.bat
 ```
 
 ### aria2
