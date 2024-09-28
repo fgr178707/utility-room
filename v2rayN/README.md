@@ -33,11 +33,15 @@ Steam loudflare| https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/extra
 MicrosoftAkamai| https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm
 
 #### 网页在线测速
+
+> [!CAUTION]
+> 网络面板|https://net.ljxnet.cn/
+> 网站不要完整的截屏
+> 网站最底下有精确到市的ip地址
 | 简称 | 链接  | 
 | :-|:-
 |Google Fiber| https://fiber.google.com/speedtest/
 | Speedtest| https://www.speedtest.net/zh-Hans
-|网络面板|https://net.ljxnet.cn/
 |互联网速度测试|https://fast.com/zh/cn
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
