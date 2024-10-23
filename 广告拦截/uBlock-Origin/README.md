@@ -83,21 +83,6 @@ youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ```
 
-### 正处于测试阶段的动态规则
-**如发现问题随时反馈给我[反馈](https://github.com/fgr178707/uBlock-Origin-youtube/issues/new)**
-
-#### 动态规则
-```
-no-remote-fonts: www.youtube.com false
-no-large-media: www.youtube.com false
-www.youtube.com * 1p-script noop
-www.youtube.com * inline-script noop
-www.youtube.com google.ch * noop
-www.youtube.com google.com * noop
-www.youtube.com google.de * noop
-no-remote-fonts: www.youtube.com true
-no-popups: www.youtube.com true
-```
 #### 配置文件
 ```JSON
 {
