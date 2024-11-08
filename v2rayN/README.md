@@ -32,6 +32,7 @@ Steam Akamai| https://cdn.akamai.steamstatic.com/steam/apps/1063730/extras/NW_Sw
 Steam loudflare| https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif
 MicrosoftAkamai| https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16Ptm
 Parallels| https://download.parallels.com/desktop/v15/15.1.5-47309/ParallelsDesktop-15.1.5-47309.dmg 200 MB <br>https://download.parallels.com/desktop/v17/17.1.1-51537/ParallelsDesktop-17.1.1-51537.dmg 300 MB|
+speedtest| https://speedtest.asymptote.cc.prod.hosts.ooklaserver.net:8080/download?size=104857600 100 MB|
 
 #### 网页在线测速
 
