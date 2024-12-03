@@ -1,0 +1,1 @@
+curl "http://localhost:6801/jsonrpc?method=aria2.shutdown&id=0" 

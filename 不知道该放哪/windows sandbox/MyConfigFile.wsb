@@ -1,0 +1,12 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>互传文件夹</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\互传文件夹</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\Desktop\互传文件夹\自动安装软件\a.bat</Command>
+  </LogonCommand>
+</Configuration>

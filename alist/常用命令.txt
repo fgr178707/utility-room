@@ -1,0 +1,16 @@
+alist storage list    显示已挂载网盘
+alist storage disable {ID} 禁用已挂载网盘
+
+# 随机生成一个密码
+./alist admin random
+# 手动设置一个密码,`NEW_PASSWORD`是指你需要设置的密码
+./alist admin set NEW_PASSWORD
+
+
+
+
+禁止所有权限的文件夹
+icacls "E:\alist\data\temp" /deny Everyone:(D)
+
+恢复所有权限文件夹
+icacls "E:\alist\data\temp" /remove:d Everyone

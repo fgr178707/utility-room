@@ -1,0 +1,229 @@
+/* styles.css */
+
+element.style {
+    font-size: 10pt;
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    font-weight: bold;
+}
+
+.model{
+    text-align: left;
+}
+.model-type{
+    width: 6rem;
+    text-align: right;
+}
+
+.container_24{
+    width: 100%!important;
+}
+
+@media screen and (max-width: 900px) {
+    .model-type{
+        width: 6rem;
+        text-align: left;
+    }
+}
+
+.cat_link{
+    color: red;
+}
+
+.dl-link{
+    cursor: pointer;
+}
+
+.dl-link:hover{
+    background-color: #dcdcdc;
+}
+
+.filter{
+    display: flex;
+    flex-direction: row;
+}
+
+#filter{
+    width: 100%;
+    height: 2rem;
+    line-height: 2rem;
+    padding: 0.35rem;
+    font-size: 1.2rem;
+    margin: 0.35rem;
+}
+
+#do-search{
+    width: 6rem;
+    height: 2.85rem;
+    line-height: 2rem;
+    flex-shrink: 0;
+    margin-top: 0.35rem;
+    margin-right: 0.35rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.top-header-title{
+    height: 2.5rem;
+    line-height: 2.5rem;
+    background-color: #447ab6;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.top-head{
+    height: 3.5rem;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+}
+.thm-item{
+    float: left;
+    width: 6rem;
+    height: 3.5rem;
+    line-height: 3.5rem;
+    color: #337ab7;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.thm-item:hover,
+.thm-item:active{
+    background-color: white;
+    border-radius: 0.35rem;
+    height: 3rem;
+    line-height: 3.0rem;
+    margin-top: 0.25rem;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 900px) {
+    body{
+        overflow-x: hidden;
+    }
+    .thm-item{
+        width: 20%;
+        font-size: 0.9rem;
+    }
+
+    .container_24,
+    .container_24 .grid_24,
+    .container_24 .grid_11{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .computerCatalog{
+        box-sizing: border-box;
+    }
+
+    .computerCatalog .hli{
+        width: 30%;
+        margin-right: 1.5%;
+        margin-left: 1.5%;
+        box-sizing: border-box;
+        margin-top: 0;
+        margin-bottom: 3px;
+        height: 25px;
+        line-height: 25px;
+    }
+
+    .computerCatalog a{
+        font-size: 0.8rem;
+    }
+
+    .pjItem .col1{width: 19.04%;}
+    .pjItem .col2{width: 42.85%;}
+    .pjItem .col3{width: 16.6%;}
+    .pjItem .col4{width: 14.28%;}
+    .pjItem .col5{width: 7.1%;}
+
+    }
+
+    #popup {
+        position: fixed;
+        bottom: -1100px;
+        left: 0;
+        z-index: 9999;
+        width: 100%;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0,0,0,.3);
+        opacity: 0;
+        transition: all .3s ease-in-out;
+    }
+
+    #popup.active {
+        bottom: -25rem;
+        opacity: 1;
+        margin-left: 0;
+    }
+
+    #popup-mask{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(136 136 136 / 75%);
+        z-index: 1;
+        display: none;
+        left: 0;
+        top: 0;
+    }
+    #popup-mask.active{
+        display: block;
+    }
+
+    #prodList{
+        width: 100%;
+    }
+
+    body {
+        transition: background-color 0.3s, color 0.3s;
+    }
+    .dark-mode {
+        background-color: #121212;
+        color: #ffffff;
+    }
+    .dark-mode .table>tbody>tr>td, .dark-mode .table>tbody>tr>th, 
+    .dark-mode .table>tfoot>tr>td, .dark-mode .table>tfoot>tr>th, 
+    .dark-mode .table>thead>tr>td, .dark-mode .table>thead>tr>th {
+        border-top: 1px solid #ffffff;
+    }
+    .toggle-dark-mode {
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        background-color: #ffffff;
+        color: #000000;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        font-size: 14px;
+    }
+    .dark-mode .toggle-dark-mode {
+        background-color: #333333;
+        color: #ffffff;
+    }
+    
+/* styles.css */
+
+/* 其他已有样式 */
+
+/* 黑暗模式下的搜索栏样式 */
+.dark-mode #filter,
+.dark-mode #do-search {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+/* 其他已有样式 */

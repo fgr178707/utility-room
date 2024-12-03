@@ -1,0 +1,22 @@
+{
+  "beta": true,
+  "generalRule": {
+    "lineBreakMaxTextCount": 0,
+    "mouseHoverHoldKey": "Alt"
+  },
+  "inputTargetLanguage": "en",
+  "isChangedAlwaysTranslatedUrls": true,
+  "modifiedBySystem": true,
+  "translationService": "deeplx",
+  "translationServices": {
+    "deeplx": {
+      "url": "http://127.0.0.1:1188/translate"
+    }
+  },
+  "translationTheme": "blockquote",
+  "translationUrlPattern": {
+    "excludeMatches": [],
+    "matches": []
+  },
+  "updatedAt": "2024-06-25T23:43:03.118Z"
+}

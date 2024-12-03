@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+    <title>软件库</title>
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+<a name="top"></a>
+<div class="container_24">
+    <div class="filter">
+        <input id="filter" placeholder="输入关键字筛选">
+        <input type="button" id="do-search" value="搜索">
+    </div>
+
+    <table class="table" style="font-size: 10pt">
+        <tbody>
+        <tr onclick="window.open('跳转链接')" class='dl-link'><td class="model"><a onclick="goto_cat_link(event)" class="cat_link"> [分类]</a>名称</td></tr>
+        <tr onclick="window.open('跳转链接')" class='dl-link'><td class="model"><a onclick="goto_cat_link(event)" class="cat_link"> [分类]</a>名称</td></tr>
+        <tr onclick="window.open('跳转链接')" class='dl-link'><td class="model"><a onclick="goto_cat_link(event)" class="cat_link"> [分类]</a>名称</td></tr>
+        <script>
+            $(document).ready(function () {
+               window.goto_cat_link = function (event) {
+                   event.stopPropagation();
+                   location.href=$(event.target).attr('href');
+                   return false;
+               }
+
+               $('#do-search').on('click',function () {
+                   var keyword = $('#filter').val();
+                   if (keyword && keyword.length > 0){
+                       do_filter(keyword);
+                   }else{
+                       $('.model').show();
+                   }
+               });
+
+               function do_filter(keyword){
+                   $('.model').each(function () {
+                       var html = $(this).html();
+                       var text = html.replace(/<\/?.+?\/?>/g,'');
+                       if (text.indexOf(keyword) >= 0){
+                           $(this).show();
+                       }else{
+                           $(this).hide();
+                       }
+                   });
+               }
+
+            });
+        </script>
+        </tbody>
+    </table>
+
+<button class="toggle-dark-mode">切换黑暗模式</button>
+<script>
+    $(document).ready(function () {
+        $('.toggle-dark-mode').on('click', function () {
+            $('body').toggleClass('dark-mode');
+        });
+    });
+</script>
+</body>
+</html>
